@@ -1,0 +1,8 @@
+/* Login.css */
+@import "./Auth.css";
+
+/*
+  IMPORTANT: The old Login.css had a global  button { background: #28a745 }
+  rule that was overriding the inline login button color.
+  That is now gone — all styles live in Auth.css with proper class scoping.
+*/
